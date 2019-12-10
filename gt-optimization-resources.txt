@@ -1,0 +1,18 @@
+GT project research:
+1. GAME THEORY PROBLEMS BY AN ALTERNATIVE SIMPLEX METHOD
+    https://www.researchgate.net/publication/273301090_GAME_THEORY_PROBLEMS_BY_AN_ALTERNATIVE_SIMPLEX_METHOD
+2. Linear Programming and Game Theory
+    -https://www2.cs.duke.edu/courses/fall15/compsci570/lpandgames.pdf
+    -https://vanderbei.princeton.edu/542/lectures/lec8.pdf
+3. AN INTRODUCTION TO LINEAR PROGRAMMING AND GAME THEORY
+    -https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781118165447
+4. Matrix Game (LP for Game Theory)
+    -https://optimization.mccormick.northwestern.edu/index.php/Matrix_game_(LP_for_game_theory)
+5. Applying Optimization in Game Theory
+    -https://optimization.mccormick.northwestern.edu/index.php/Applying_Optimization_in_Game_Theory
+6. An Optimization Model Based on Game Theory
+    -https://pdfs.semanticscholar.org/2c3b/1e9967629dddce2b3b8aaa5ce9b444ab691d.pdf
+7. Coevolutionary Augmented Lagrangian Methods for Constrained Optimization
+    -https://ieeexplore-ieee-org.proxy.lib.pdx.edu/stamp/stamp.jsp?tp=&arnumber=850652
+This paper introduces a coevolutionary method developed for solving constrained optimization problems.
+This algorithm is based on the evolution of two populations with opposite objectives to solve saddle-point problems.
